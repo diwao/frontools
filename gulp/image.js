@@ -1,6 +1,8 @@
-var gulp = require('gulp');
-var imagemin = require('gulp-imagemin');
-var pngquant = require('imagemin-pngquant');
+'use strict';
+
+const gulp = require('gulp');
+const imagemin = require('gulp-imagemin');
+const pngquant = require('imagemin-pngquant');
 const jpegtran = require('imagemin-jpegtran');
 
 gulp.task('imagemin', function(){
