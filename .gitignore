@@ -1,0 +1,10 @@
+# node_modulesを除外
+node_modules/
+
+# 作業ファイルを除外
+image/**
+js/**
+scss/**
+
+# logファイルを除外
+*.log
