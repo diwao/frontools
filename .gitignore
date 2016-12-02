@@ -5,6 +5,7 @@ node_modules/
 image/**
 js/**
 scss/**
+sprite/**
 
 # logファイルを除外
 *.log

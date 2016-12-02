@@ -7,3 +7,4 @@ var gulp = require('gulp');
 require('./gulp/image.js');
 require('./gulp/style.js');
 require('./gulp/script.js');
+require('./gulp/sprite.js');
